@@ -1,13 +1,13 @@
 // destructuring ============================
 
-// const arr = ['first', 'second', 'new'];
+const arr = ['first', 'second', 'new'];
 
-// const [a, , c] = arr;
+const [a, , c] = arr;
 
-// console.log(a); // first
-// //console.log(b); // second
-// console.log(c)
-// console.log(arr);
+console.log(a); // first
+//console.log(b); // second
+console.log(c)
+console.log(arr);
 
 // ------------------------------------------
 
